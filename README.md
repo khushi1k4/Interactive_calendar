@@ -31,8 +31,7 @@ Digital organization often feels fragmented. Users are forced to switch between 
 The project utilizes a **Component-Based Architecture** focused on speed and modularity.
 
 
-
-[Image of React component-based architecture diagram]
+![Image](https://github.com/user-attachments/assets/cbf65e83-b077-4698-a586-94f092554d49)
 
 
 1.  **The Brain (`useCalendar` Hook):** Handles all date arithmetic and state logic.
