@@ -2,6 +2,8 @@
 
 **Live Demo:** [https://proactive-calendar.vercel.app/](https://proactive-calendar.vercel.app/)
 
+**Video:** [Demostration video](https://drive.google.com/file/d/1TmWc9jst4dW7Qjwmmp_9KRZJ8XznNahb/view?usp=sharing)
+
 A high-performance, aesthetically pleasing React calendar application that harmonizes seasonal beauty with personal productivity. Unlike static calendars, **Proactive Calendar** adapts to the passage of time through dynamic theming and provides a private, localized space for daily reflections.
 
 ---
