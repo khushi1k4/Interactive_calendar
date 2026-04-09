@@ -4,8 +4,10 @@ const SPECIAL_DAYS = {
   "01-26": { name: "Republic Day", type: "national" },
   "08-15": { name: "Independence Day", type: "national" },
   "10-02": { name: "Gandhi Jayanti", type: "national" },
+  "12-25": { name: "Christmas day", type: "national" },
   "02-14": { name: "Valentine's Day", type: "observance" },
   "11-14": { name: "Children's Day", type: "observance" },
+  "09-05": { name: "Teacher's Day", type: "observance" },
 };
 
 export const getSpecialDay = (date) => {
